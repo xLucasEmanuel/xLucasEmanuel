@@ -1,7 +1,7 @@
 ### Eai, Lucão por aqui, beleza ?
 
 
- 🌱 Estudante de JavaScript/HTML/CSS/ReactNative 
+ 🌱 Estudante de JavaScript/HTML/CSS/React
  ⚡ Sonhando acordado em ser desenvolvedor!!
  🔥 Build your own legacy !
 
