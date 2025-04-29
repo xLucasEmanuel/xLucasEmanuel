@@ -1,4 +1,4 @@
-Quality Assurance -🔥 Build your own legacy !
+Quality Assurance 🔥 Build your own legacy !
 
 <div align="center">
   <a href="https://github.com/xLucasEmanuel">
