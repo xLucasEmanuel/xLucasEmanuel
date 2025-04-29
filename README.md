@@ -1,9 +1,4 @@
-### Eai, Lucão por aqui, beleza ?
-
-
- 🌱 Estudante de JavaScript/HTML/CSS/React
- ⚡ Sonhando acordado em ser desenvolvedor!!
- 🔥 Build your own legacy !
+Quality Assurance -🔥 Build your own legacy !
 
 <div align="center">
   <a href="https://github.com/xLucasEmanuel">
