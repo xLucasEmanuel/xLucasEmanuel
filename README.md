@@ -2,7 +2,7 @@
 <h2><br><b> About me 🤙 </br></b></h2>
 Profissional da qualidade e testes de software (𝐐𝐀) com mais de 02 anos de experiência em diversos contextos como, e-commerce, financeiro, estoque, pontos de venda entre outros...Sendo responsável pela execução de testes manuais, automatizados, exploratórios e regressivos, além de cenários e casos de testes.
 <h2>Experiência 💻 </h2>
-Atuo há aproximadamente dois anos no mercado, período em que desenvolvi experiência sólida na identificação de falhas, garantia da qualidade e melhoria contínua de sistemas, sempre com foco na entrega de produtos confiáveis e alinhados às expectativas dos usuários.Ao longo da minha trajetória, adquiri conhecimentos em elaboração e execução de casos de teste, testes funcionais, regressivos e exploratórios, além de colaborar diretamente com equipes de desenvolvimento para garantir maior eficiência nos processos.
+Atuo há aproximadamente dois anos no mercado, período em que desenvolvi experiência sólida na identificação de falhas, garantia da qualidade e melhoria contínua de sistemas, sempre com foco na entrega de produtos confiáveis e alinhados às expectativas dos usuários. Ao longo da minha trajetória, adquiri conhecimentos em elaboração e execução de casos de teste, testes funcionais, regressivos e exploratórios, além de colaborar diretamente com equipes de desenvolvimento para garantir maior eficiência nos processos.
 <h2>Certificações 🎓</h2>
 <i>Loading...</i>
   <div> 
